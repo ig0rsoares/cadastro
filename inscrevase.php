@@ -45,7 +45,7 @@
 	    	<div class="col-md-4">
 	    		<h3>Inscreva-se já para promoções e descontos especiais em cursos.</h3>
 	    		<br />
-				<form method="" action="" id="">
+				<form method="post" action="validar.php" id="usuarios">
 					<div class="form-group">
 						<input type="text" class="form-control" id="usuario" name="usuario" placeholder="Usuário" required="requiored">
 					</div>
